@@ -1,23 +1,84 @@
-# Hi there, I'm Sosna Worku Achamyeleh! 👋
+# Hi, I'm Sosna Worku Achamyeleh 👋
 
-🚀 **Machine Learning | Computer Vision | NLP | AI for Good**
+**AI Researcher | Computer Vision | Medical Imaging | Foundation Models**
 
-I'm a passionate AI researcher with a strong focus on **computer vision, NLP, and AI-driven solutions for healthcare and social impact**, while also empowering African youth and women in tech.
+I'm interested in building machine learning systems that are reliable enough to be used in healthcare. My work explores computer vision, foundation models, explainable AI, uncertainty estimation, and robustness, with an emphasis on medical imaging.
 
-### 🌟 What I Do:
-- 👁️ **Computer Vision** – Developing AI models for medical image analysis.
-- 🗣️ **NLP Research** – Threat detection in Amharic speech.
-- 🎓 **Tech Educator** – Teaching ML and AI to aspiring engineers.
-- 🤖 **AI Applications** – Building real-world solutions using deep learning & NLP.
+I'm currently working on vision foundation models for brain MRI analysis and studying how Vision Transformers behave under medical distribution shift. I'm also preparing for a Ph.D. in Computer Science.
 
-### 🔗 Connect with Me:
-- 📜 [My Research & Projects](https://github.com/Sossyh)  
-- 🔬 [LinkedIn](https://www.linkedin.com/in/sosna-achamyeleh/)  
-- ✍️ [Portfolio](https://sossyh.github.io/)   
-- 📩 Email: sosworkuacha@gmail.com
+---
 
-### 📌 Featured Projects:
-- 🏆 **VoiceShield** – Threat detection in Amharic speech (Award-winning NLP project)  
-- 📊 **Pneumonia Detection** – AI-powered medical image analysis using deep learning  
+## Research Interests
 
-Always open to collaborations and discussions on cutting-edge AI research. 🚀
+- Computer Vision
+- Medical Image Analysis
+- Foundation Models
+- Vision Transformers
+- Self-Supervised Learning
+- Explainable AI
+- Trustworthy AI
+- Uncertainty Estimation
+- Model Robustness
+- Deep Learning
+
+---
+
+## Current Work
+
+- Brain Foundation Models for MRI representation learning
+- Reliability and Explainability of Vision Transformers under Medical Distribution Shift
+- Deep learning methods for medical image analysis
+
+---
+
+## Selected Projects
+
+### 🧠 Brain Foundation Model
+Learning visual representations from brain MRI using self-supervised foundation models.
+
+### 🩻 Reliability & Explainability of Vision Transformers
+Evaluating robustness, calibration, uncertainty estimation, and explainability of Vision Transformers on chest X-ray datasets.
+
+### 🗣️ VoiceShield
+Award-winning project for detecting threats in Amharic speech using deep learning.
+
+### 🫁 Pneumonia Detection
+Deep learning models for automated chest X-ray diagnosis.
+
+---
+
+## Tools & Technologies
+
+**Languages**
+
+Python • Java • C# • JavaScript
+
+**Machine Learning**
+
+PyTorch • TensorFlow • Hugging Face • Scikit-learn
+
+**Computer Vision**
+
+Vision Transformers • DINOv2 • OpenCLIP • MAE • CNNs
+
+---
+
+## Looking For
+
+I'm interested in collaborating on research in:
+
+- Computer Vision
+- Medical AI
+- Foundation Models
+- Self-Supervised Learning
+- Explainable AI
+
+---
+
+## Connect
+
+🌐 Portfolio: https://sossyh.github.io
+
+💼 LinkedIn: https://www.linkedin.com/in/sosna-achamyeleh/
+
+📧 Email: sosworkuacha@gmail.com
