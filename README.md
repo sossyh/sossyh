@@ -1,10 +1,8 @@
 # Hi, I'm Sosna Worku Achamyeleh 👋
 
-**AI Researcher | Computer Vision | Medical Imaging | Foundation Models**
+M.S. student in Artificial Intelligence & Machine Learning at **The George Washington University**.
 
-I'm interested in building machine learning systems that are reliable enough to be used in healthcare. My work explores computer vision, foundation models, explainable AI, uncertainty estimation, and robustness, with an emphasis on medical imaging.
-
-I'm currently working on vision foundation models for brain MRI analysis and studying how Vision Transformers behave under medical distribution shift. I'm also preparing for a Ph.D. in Computer Science.
+I work on machine learning problems in computer vision, medical imaging, and natural language processing. My recent work looks at how models behave in real-world conditions, especially in healthcare settings where reliability and interpretability matter.
 
 ---
 
@@ -12,73 +10,79 @@ I'm currently working on vision foundation models for brain MRI analysis and stu
 
 - Computer Vision
 - Medical Image Analysis
+- Natural Language Processing
 - Foundation Models
 - Vision Transformers
-- Self-Supervised Learning
 - Explainable AI
-- Trustworthy AI
-- Uncertainty Estimation
-- Model Robustness
+- Model Reliability & Robustness
+- Self-Supervised Learning
 - Deep Learning
 
 ---
 
 ## Current Work
 
-- Brain Foundation Models for MRI representation learning
-- Reliability and Explainability of Vision Transformers under Medical Distribution Shift
-- Deep learning methods for medical image analysis
+- Evaluating Vision Transformers for medical image analysis under distribution shift
+- Benchmarking transformer-based models for stress detection in text
+- Exploring foundation model approaches for computer vision tasks
 
 ---
 
-## Selected Projects
-
-### 🧠 Brain Foundation Model
-Learning visual representations from brain MRI using self-supervised foundation models.
+## Featured Projects
 
 ### 🩻 Reliability & Explainability of Vision Transformers
-Evaluating robustness, calibration, uncertainty estimation, and explainability of Vision Transformers on chest X-ray datasets.
+Studying robustness, calibration, uncertainty estimation, and explainability of Vision Transformers for chest X-ray analysis.
 
-### 🗣️ VoiceShield
-Award-winning project for detecting threats in Amharic speech using deep learning.
+### 💬 Stress Detection with Transformers
+Comparing classical machine learning models and DistilBERT on Reddit data using statistical significance testing.
+
+### 🎙️ VoiceShield
+Real-time system for detecting threats in spoken Amharic using deep learning.
 
 ### 🫁 Pneumonia Detection
-Deep learning models for automated chest X-ray diagnosis.
+Deep learning model for automated chest X-ray classification.
 
 ---
 
-## Tools & Technologies
+## Education
 
-**Languages**
+**The George Washington University**  
+M.S. in Artificial Intelligence & Machine Learning (2025–2027)  
+GPA: 3.78/4.00  
+Black in Robotics + 3M Graduate Fellow
 
+**Addis Ababa University**  
+B.S. in Software Engineering (2019–2024)  
+GPA: 3.62/4.00
+
+---
+
+## Technical Skills
+
+**Languages**  
 Python • Java • C# • JavaScript
 
-**Machine Learning**
-
+**Machine Learning**  
 PyTorch • TensorFlow • Hugging Face • Scikit-learn
 
-**Computer Vision**
+**Computer Vision**  
+Vision Transformers • CNNs • DINOv2 • OpenCLIP
 
-Vision Transformers • DINOv2 • OpenCLIP • MAE • CNNs
+**Backend & Tools**  
+FastAPI • REST APIs • SQL • Git • Linux
 
 ---
 
-## Looking For
+## Awards
 
-I'm interested in collaborating on research in:
-
-- Computer Vision
-- Medical AI
-- Foundation Models
-- Self-Supervised Learning
-- Explainable AI
+- Black in Robotics + 3M Graduate Fellowship
+- International Impact Award at George Washington University
+- Best Poster Presentation, Addis Ababa University Research Week (2024)
 
 ---
 
 ## Connect
 
-🌐 Portfolio: https://sossyh.github.io
-
-💼 LinkedIn: https://www.linkedin.com/in/sosna-achamyeleh/
-
-📧 Email: sosworkuacha@gmail.com
+Portfolio: https://sossyh.github.io  
+LinkedIn: https://linkedin.com/in/sosna-achamyeleh  
+Email: sosna.achamyeleh@gwu.edu
